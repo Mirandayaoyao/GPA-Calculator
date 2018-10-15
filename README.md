@@ -1,11 +1,12 @@
 # GPA-Calculator
+<img align="middle" width="300" height="300" src="https://github.com/Mirandayaoyao/GPA-Calculator/blob/master/gap-cal-cover.png">
 author: Miranda Chen  
 Contact: r03544029@ntu.edu.tw  
 A python-based lightweight calculator to convert GPA.    
 Notice: Nanjing University adapt 5.00 GPA, while National Taiwan University with 4.30 GPA.
 
-## Look Up Table
 
+## Mode
 mode | GPA version
 ------------ | -------------
 ave | average of all semester/year
@@ -13,6 +14,8 @@ std4| standard 4.0
 v1| version 1 of 4.0
 v2| version 2 of 4.0
 pku4| Peking University version of 4.0
+
+## Look Up Table
 
 ### standard 4.0
 score | GPA
@@ -59,16 +62,15 @@ A- | 3.7
 B+| 3.3
 B| 3.0
 B-| 2.7
-B+| 2.2
-B+| 2.2
-B+| 2.2
-B+| 2.2
-B+| 2.2
+C+| 2.3
+C| 2.0
+C-| 1.7
+F| 0
+X| 0
 
-
-## mode
 
 
 
 ## How to run
-[python online](https://www.python.org/shell/)
+
+You could copy and paste to run them online [python online](https://www.python.org/shell/), without install python in your computer.
